@@ -1,20 +1,49 @@
 ## 👩‍💻 Oiii! Eu sou a Mickaelly Freitas
 
-Sou estudante de engenharia com foco em **sistemas embarcados, hardware e sistemas inteligentes** 🚀  
+Sou estudante de engenharia focada em **sistemas embarcados, hardware e sistemas inteligentes** 🚀  
 
-Tenho experiência no desenvolvimento de soluções completas que integram **firmware bare-metal, sistemas em tempo real, projeto de PCBs, IoT, machine learning e visão computacional**.
+Desenvolvo soluções completas que vão do **baixo nível ao alto nível**, integrando diferentes áreas da engenharia.
 
-Atuo com desenvolvimento de **firmware em baixo nível (bare-metal)** para microcontroladores STM32 (Cortex-M3 e Cortex-M7), implementando periféricos como **GPIO, I2C, ADC e interrupções** diretamente via registradores, garantindo controle total do hardware.
+---
 
-Também tenho experiência em **projeto de hardware**, incluindo desenvolvimento de **PCBs customizadas**, com foco em sistemas de energia, como **conversores DC-DC, técnicas de MPPT e carregamento de baterias Li-ion**, voltados para aplicações eficientes e de baixo consumo.
+### 🔧 Atuação Técnica
 
-Na área de sistemas embarcados, desenvolvo aplicações utilizando **FreeRTOS**, aplicando conceitos como **multitarefa (tasks), filas (queues), mutex, semáforos, timers e escalonamento**, sempre com integração prática com sensores e atuadores.
+- Firmware **bare-metal (STM32)** com programação em registradores  
+- Sistemas em tempo real com **FreeRTOS**  
+- Desenvolvimento de **PCBs** e hardware embarcado  
+- Integração de **sensores e atuadores**  
 
-Além disso, desenvolvo **sistemas IoT e monitoramento em tempo real**, integrando sensores e comunicação sem fio (LoRa e Wi-Fi) com interfaces web para visualização de dados.
+---
 
-Também atuo com **Machine Learning e Visão Computacional**, utilizando ferramentas como **Scikit-learn** e modelos **YOLO** para análise de dados e detecção de objetos em vídeo.
+### ⚙️ Experiência
 
-💡 Meus projetos têm como objetivo demonstrar, de forma prática, como integrar **hardware + software + inteligência**, desde o nível mais baixo (registradores) até aplicações reais e robustas.
+- Periféricos: **GPIO, I2C, ADC e interrupções**  
+- Sistemas de energia: **DC-DC, MPPT e baterias Li-ion**  
+- Conceitos de RTOS:
+  - Tasks (multitarefa)  
+  - Filas (queues)  
+  - Mutex e semáforos  
+  - Timers e escalonamento  
+
+---
+
+### 📡 IoT & Sistemas Inteligentes
+
+- Comunicação sem fio: **LoRa e Wi-Fi**  
+- Monitoramento em tempo real com interface web  
+- Aplicações com sensores conectados  
+
+---
+
+### 🧠 Inteligência Computacional
+
+- **Machine Learning (Scikit-learn)**  
+- **Visão Computacional (YOLO)**  
+- Detecção de objetos e análise de dados  
+
+---
+
+💡 Meu foco é integrar **hardware + firmware + inteligência** para desenvolver sistemas reais, eficientes e robustos.
 
 ## 🚀 Projetos
 
