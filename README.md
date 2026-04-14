@@ -84,6 +84,5 @@ Desenvolvo soluções completas que vão do **baixo nível ao alto nível**, int
 
 <div> 
   <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="SEU_LINKEDIN_AQUI" target="_blank"><img src="
-www.linkedin.com/in/mickaelly-freitas-ab1732335"></a> 
+  <a href="SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
