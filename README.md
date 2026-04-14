@@ -37,7 +37,8 @@ Desenvolvo soluções completas que vão do **baixo nível ao alto nível**, int
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="STM32" height="30" width="40" src="https://www.facebook.com/photo/?fbid=624738766348177&set=a.624738713014849">
+  <img align="center" alt="STM32" height="30" width="40" 
+src="https://upload.wikimedia.org/wikipedia/commons/0/0a/STMicroelectronics-Logo.svg">
   <img align="center" alt="ESP32" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg">
   <img align="center" alt="Raspberry Pi Pico" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
