@@ -33,29 +33,6 @@ Desenvolvo soluções completas que vão do **baixo nível ao alto nível**, int
 
 💡 Meu foco é integrar **hardware + firmware + inteligência** para desenvolver sistemas reais, eficientes e robustos.
 
-## 🚀 Projetos
-
-- 🔌 **Drivers Bare-Metal para STM32**  
-  Implementação de periféricos em baixo nível (GPIO, I2C, ADC, interrupções)
-
-- ⚡ **Sistema de Energia Solar com MPPT (PCB)**  
-  Projeto de hardware para gerenciamento eficiente de energia
-
-- 📡 **Nó IoT Multissensor de Baixo Consumo (LoRa)**  
-  Sistema com múltiplos sensores e comunicação de longa distância
-
-- 🚗 **Sistema Veicular em Tempo Real (ESP32)**  
-  Sensores ultrassônicos + IMU com interface web em tempo real
-
-- 🧠 **Plataforma de Estudos com FreeRTOS (Raspberry Pi Pico)**  
-  Demonstração de tasks, filas, mutex, semáforos, timers e escalonador
-
-- 🤖 **Machine Learning com Scikit-learn**  
-  Implementação de modelos de regressão, classificação e ensemble
-
-- 🎥 **Detecção de Objetos em Vídeo (YOLO)**  
-  Pipeline completo de visão computacional com processamento de vídeo
-
 ---
 
 ## 🛠️ Tecnologias
