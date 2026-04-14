@@ -6,34 +6,22 @@ Desenvolvo soluções completas que vão do **baixo nível ao alto nível**, int
 
 ---
 
-### 🔧 Atuação Técnica
+### 🔧 Atuação e Experiência Técnica
 
-- Firmware **bare-metal (STM32)** com programação em registradores  
-- Sistemas em tempo real com **FreeRTOS**  
-- Desenvolvimento de **PCBs** e hardware embarcado  
-- Integração de **sensores e atuadores**  
-
----
-
-### ⚙️ Experiência
-
-- Periféricos: **GPIO, I2C, ADC e interrupções**  
-- Sistemas de energia: **DC-DC, MPPT e baterias Li-ion**  
-- Conceitos de RTOS:
+- Desenvolvimento de firmware **bare-metal (STM32)** com programação em registradores  
+- Implementação de sistemas em tempo real com **FreeRTOS**  
+- Projeto e desenvolvimento de **PCBs e hardware embarcado**  
+- Integração e validação de **sensores e atuadores**  
+- Uso de periféricos: **GPIO, I2C, ADC e interrupções**  
+- Sistemas de energia: **DC-DC converters, MPPT e baterias Li-ion**  
+- Conceitos de RTOS aplicados:
   - Tasks (multitarefa)  
   - Filas (queues)  
   - Mutex e semáforos  
   - Timers e escalonamento  
-
----
-
-### 📡 IoT & Sistemas Inteligentes
-
 - Comunicação sem fio: **LoRa e Wi-Fi**  
-- Monitoramento em tempo real com interface web  
-- Aplicações com sensores conectados  
-
----
+- Desenvolvimento de sistemas de **monitoramento em tempo real com interface web**  
+- Aplicações com **sensores conectados (IoT)**
 
 ### 🧠 Inteligência Computacional
 
