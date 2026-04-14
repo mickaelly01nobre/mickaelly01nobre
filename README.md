@@ -1,56 +1,42 @@
-## 👩‍💻 About Me
+## 👩‍💻 Oiii! Eu sou a Mickaelly Freitas
 
-I am an engineering student focused on **embedded systems, hardware design, and intelligent systems**, with experience in developing complete solutions that integrate **PCB design, bare-metal firmware, real-time systems, and machine learning**.
+Sou estudante de engenharia com foco em **sistemas embarcados, hardware e inteligência computacional** 🚀  
 
-I work with **low-level firmware development (bare-metal)** for microcontrollers such as STM32 (Cortex-M3 and Cortex-M7), implementing peripherals like GPIO, I2C, ADC, and interrupt systems directly through register-level programming.
+Aqui você vai encontrar projetos envolvendo:
+- 🔧 Firmware **bare-metal (STM32)**
+- ⚡ Sistemas com **FreeRTOS** (tasks, filas, mutex, semáforos, timers)
+- 🔌 **Projeto de PCBs** e eletrônica aplicada
+- 📡 **IoT e integração de sensores**
+- 🧠 **Machine Learning (Scikit-learn)**
+- 🎥 **Visão Computacional com YOLO**
 
-I also have experience in **custom PCB design**, including power management systems such as **DC-DC converters with MPPT** and **Li-ion battery charging circuits**, aimed at low-power and energy-efficient applications.
-
-In embedded systems, I develop applications using **FreeRTOS**, applying concepts such as multitasking, queues, mutexes, semaphores, timers, and scheduling.
-
-Additionally, I build **IoT and real-time monitoring systems**, integrating sensors and wireless communication (LoRa, Wi-Fi) with web-based interfaces.
-
-I also develop projects in **Machine Learning and Computer Vision**, using Scikit-learn and YOLO models for data analysis and real-time object detection.
-
----
-
-## 🚀 Projects
-
-- 🔌 **STM32 Bare-Metal Drivers**  
-  Low-level implementation of peripherals (GPIO, I2C, ADC, interrupts)
-
-- ⚡ **Solar Energy Harvesting PCB (MPPT + Li-ion Charger)**  
-  Custom hardware design for efficient power management
-
-- 📡 **Low-Power IoT Multisensor Node (LoRa)**  
-  PCB-based system with multiple sensors and long-range communication
-
-- 🚗 **Real-Time Vehicle Monitoring System (ESP32)**  
-  Ultrasonic + IMU sensors with real-time web interface
-
-- 🧠 **FreeRTOS Platform (Raspberry Pi Pico)**  
-  Demonstration of tasks, queues, mutexes, semaphores, timers, and scheduler
-
-- 🤖 **Machine Learning with Scikit-learn**  
-  Practical implementations of regression, classification, and ensemble models
-
-- 🎥 **Object Detection in Video (YOLO)**  
-  Real-time video processing pipeline with object detection
+💡 Meus projetos têm como objetivo demonstrar na prática como integrar **hardware + software + inteligência**, desde o nível mais baixo (registradores) até aplicações reais.
 
 ---
 
-## 🛠️ Skills
-
-- Embedded Systems  
-- Bare-Metal Programming (C)  
-- FreeRTOS  
-- PCB Design  
-- IoT Systems  
-- Sensor Integration  
-- Machine Learning  
-- Computer Vision  
+## 📊 Sobre o GitHub Stats
+Se os gráficos não aparecerem, pode ser instabilidade da API 😅  
+Mas você pode configurar o seu próprio aqui:  
+👉 https://github.com/anuraghazra/github-readme-stats
 
 ---
 
-## 🎯 Goal
-To develop complete engineering solutions by integrating **hardware, firmware, and intelligent systems**, focusing on performance, efficiency, and real-world applications.
+## 🛠️ Tecnologias que utilizo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Embedded" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png">
+  <img align="center" alt="STM32" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/stmicroelectronics-1.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+---
+
+## 🌐 Contato
+
+<div> 
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
