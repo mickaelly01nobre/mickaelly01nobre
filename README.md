@@ -75,8 +75,13 @@ Desenvolvo soluções completas que vão do **baixo nível ao alto nível**, int
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Embedded" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png">
+  <img align="center" alt="Hardware" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3659/3659898.png">
   <img align="center" alt="STM32" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/stmicroelectronics-1.svg">
+  <img align="center" alt="ESP32" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg">
+  <img align="center" alt="Raspberry Pi Pico" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+  <img align="center" alt="FreeRTOS" height="30" width="40" src="https://www.freertos.org/fr-content-src/uploads/2018/07/FreeRTOS_logo.png">
+  <img align="center" alt="KiCad" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
