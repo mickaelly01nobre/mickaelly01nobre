@@ -2,38 +2,19 @@
 
 Sou estudante de engenharia com foco em **sistemas embarcados, hardware e sistemas inteligentes** 🚀  
 
-Tenho experiência no desenvolvimento de soluções completas que integram:
-- 🔧 **Firmware bare-metal (baixo nível)**
-- ⚡ **Sistemas em tempo real com FreeRTOS**
-- 🔌 **Projeto de PCBs**
-- 📡 **IoT e integração de sensores**
-- 🧠 **Machine Learning**
-- 🎥 **Visão Computacional**
+Tenho experiência no desenvolvimento de soluções completas que integram **firmware bare-metal, sistemas em tempo real, projeto de PCBs, IoT, machine learning e visão computacional**.
 
-💡 Meus projetos têm como objetivo demonstrar na prática como integrar **hardware + software + inteligência**, desde o nível mais baixo (registradores) até aplicações reais.
+Atuo com desenvolvimento de **firmware em baixo nível (bare-metal)** para microcontroladores STM32 (Cortex-M3 e Cortex-M7), implementando periféricos como **GPIO, I2C, ADC e interrupções** diretamente via registradores, garantindo controle total do hardware.
 
----
+Também tenho experiência em **projeto de hardware**, incluindo desenvolvimento de **PCBs customizadas**, com foco em sistemas de energia, como **conversores DC-DC, técnicas de MPPT e carregamento de baterias Li-ion**, voltados para aplicações eficientes e de baixo consumo.
 
-## 🧠 Sobre mim
+Na área de sistemas embarcados, desenvolvo aplicações utilizando **FreeRTOS**, aplicando conceitos como **multitarefa (tasks), filas (queues), mutex, semáforos, timers e escalonamento**, sempre com integração prática com sensores e atuadores.
 
-Atuo com desenvolvimento de **firmware em baixo nível (bare-metal)** para microcontroladores STM32 (Cortex-M3 e Cortex-M7), implementando periféricos como **GPIO, I2C, ADC e interrupções** diretamente via registradores.
+Além disso, desenvolvo **sistemas IoT e monitoramento em tempo real**, integrando sensores e comunicação sem fio (LoRa e Wi-Fi) com interfaces web para visualização de dados.
 
-Também tenho experiência em **projeto de hardware**, incluindo desenvolvimento de **PCBs customizadas**, com foco em sistemas de energia como:
-- Conversores **DC-DC**
-- Técnicas de **MPPT**
-- Carregamento de baterias **Li-ion**
+Também atuo com **Machine Learning e Visão Computacional**, utilizando ferramentas como **Scikit-learn** e modelos **YOLO** para análise de dados e detecção de objetos em vídeo.
 
-Na área de sistemas embarcados, desenvolvo aplicações utilizando **FreeRTOS**, aplicando conceitos como:
-- Multitarefa (tasks)
-- Filas (queues)
-- Mutex e semáforos
-- Timers e escalonador
-
-Além disso, desenvolvo **sistemas IoT e monitoramento em tempo real**, integrando sensores e comunicação sem fio (LoRa e Wi-Fi) com interfaces web.
-
-Também atuo com **Machine Learning e Visão Computacional**, utilizando bibliotecas como **Scikit-learn** e modelos **YOLO** para análise de dados e detecção de objetos em vídeo.
-
----
+💡 Meus projetos têm como objetivo demonstrar, de forma prática, como integrar **hardware + software + inteligência**, desde o nível mais baixo (registradores) até aplicações reais e robustas.
 
 ## 🚀 Projetos
 
