@@ -22,9 +22,6 @@ Desenvolvo soluções completas que vão do **baixo nível ao alto nível**, int
 - Comunicação sem fio: **LoRa e Wi-Fi**  
 - Desenvolvimento de sistemas de **monitoramento em tempo real com interface web**  
 - Aplicações com **sensores conectados (IoT)**
-
-### 🧠 Inteligência Computacional
-
 - **Machine Learning (Scikit-learn)**  
 - **Visão Computacional (YOLO)**  
 - Detecção de objetos e análise de dados  
