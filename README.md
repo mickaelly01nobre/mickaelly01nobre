@@ -1,4 +1,4 @@
-## 👩‍💻 Oiii! Eu sou a Mickaelly Freitas
+## 👩‍💻 Olá! Eu sou a Mickaelly Freitas
 
 Sou estudante de engenharia focada em **sistemas embarcados, hardware e sistemas inteligentes** 🚀  
 
@@ -74,6 +74,7 @@ Desenvolvo soluções completas que vão do **baixo nível ao alto nível**, int
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Embedded" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png">
   <img align="center" alt="STM32" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/stmicroelectronics-1.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
